@@ -1,6 +1,6 @@
 package main
 
-import "github.com/apoydence/lightsoff"
+import "github.com/poy/lightsoff"
 
 func main() {
 	someChannel := make(chan int, 10)

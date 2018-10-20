@@ -3,7 +3,7 @@ package lightsoff_test
 import (
 	"sync"
 
-	"github.com/apoydence/lightsoff"
+	"github.com/poy/lightsoff"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
